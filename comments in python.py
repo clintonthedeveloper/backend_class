@@ -1,0 +1,1 @@
+# comments in python is used to prevent a perticuler code from running with your actual programm
